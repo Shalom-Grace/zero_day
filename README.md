@@ -1,1 +1,1 @@
-This project is about how to code in my local computer
+readme for task 1
